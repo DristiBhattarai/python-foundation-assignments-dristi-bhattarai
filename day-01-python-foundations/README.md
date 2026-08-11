@@ -20,16 +20,18 @@
 ## How to Run
 
 Run each file using:
-
+```bash
 python exercise-01-sales-summary.py
+```
 
 Similarly, run the other exercises:
-
+```bash
 python exercise-02-data-quality-checker.py
 python exercise-03-file-validator.py
 python exercise-04-customer-cleaner.py
 python exercise-05-pipeline-health-status.py
 python exercise-06-dataset-access-decision.py
+```
 
 # What I Learned
 
